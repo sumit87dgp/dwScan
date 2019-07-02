@@ -1,0 +1,9 @@
+com.amd.dropwizardPOC
+com.amd.dropwizardPOC.api
+com.amd.dropwizardPOC.core
+com.amd.dropwizardPOC.db
+com.amd.dropwizardPOC.health
+com.amd.dropwizardPOC.ldapService
+com.amd.dropwizardPOC.mappers
+com.amd.dropwizardPOC.resources
+com.amd.dropwizardPOC.security

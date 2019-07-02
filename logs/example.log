@@ -1,0 +1,6 @@
+INFO  [2019-04-23 09:20:22,843] io.dropwizard.server.DefaultServerFactory: Registering jersey handler with root path prefix: /
+INFO  [2019-04-23 09:20:22,843] io.dropwizard.server.DefaultServerFactory: Registering admin handler with root path prefix: /
+INFO  [2019-04-23 09:20:23,247] org.hibernate.Version: HHH000412: Hibernate Core {5.2.18.Final}
+INFO  [2019-04-23 09:20:23,263] org.hibernate.cfg.Environment: HHH000206: hibernate.properties not found
+INFO  [2019-04-23 09:20:23,278] io.dropwizard.hibernate.SessionFactoryFactory: Entity classes: [com.amd.dropwizardPOC.core.AuthTokens, com.amd.dropwizardPOC.core.ScanMaps, com.amd.dropwizardPOC.core.User]
+INFO  [2019-04-23 09:20:23,372] org.hibernate.annotations.common.Version: HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
