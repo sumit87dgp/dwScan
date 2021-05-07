@@ -28,9 +28,6 @@ logging:
 #authenticationCachePolicy: maximumSize=10000, expireAfterAccess=3s
 database:
   driverClass: com.mysql.jdbc.Driver
-  url: jdbc:mysql://atlscanviewdbstg.amd.com/scanviewStaging
-  user: scanviewStage_ad
-  password: GQFxRAHa
   maxWaitForConnection: 1s
   validationQuery: "SELECT 1"
   validationQueryTimeout: 3s
